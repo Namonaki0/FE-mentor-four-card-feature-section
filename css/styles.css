@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: grid;
+  overflow-y: scroll;
+  font-family: "Poppins", sans-serif;
+}
+
+main {
+  max-width: 375px;
+  padding: 5.1rem 1.9rem 2rem;
+}
+main h1 {
+  font-size: 1.55rem;
+  text-align: center;
+  color: hsl(229deg, 6%, 66%);
+  font-weight: 200;
+  margin-bottom: 1.3rem;
+}
+main h1 span {
+  display: block;
+  color: hsl(234deg, 12%, 34%);
+  font-weight: 600;
+}
+main p {
+  font-size: 15.5px;
+  color: hsl(229deg, 6%, 66%);
+  text-align: center;
+  margin-bottom: 5rem;
+}
+main section .card {
+  padding: 1.5rem 1.6rem 1.5rem 1.7rem;
+  box-shadow: -1px 5px 10px rgba(0, 0, 0, 0.2);
+  margin-bottom: 1.4rem;
+}
+main section .card h2 {
+  font-size: 1.3rem;
+  margin-bottom: 0.1rem;
+}
+main section .card p {
+  font-size: 13.5px;
+  line-height: 24px;
+  color: hsl(229deg, 6%, 66%);
+  margin-bottom: 1.9rem;
+  text-align: left;
+}
+main section .card .image-wrapper {
+  width: 58px;
+  margin-left: auto;
+  margin-bottom: 0.5rem;
+}
+main section .card .image-wrapper img {
+  width: 100%;
+  display: block;
+}
+main section .card-supervisor {
+  border-top: 4px solid hsl(180deg, 62%, 55%);
+}
+main section .card {
+  padding: 1.5rem 1.6rem 1.5rem 1.7rem;
+  box-shadow: -1px 5px 10px rgba(0, 0, 0, 0.2);
+  margin-bottom: 1.4rem;
+}
+main section .card h2 {
+  font-size: 1.3rem;
+  margin-bottom: 0.1rem;
+}
+main section .card p {
+  font-size: 13.5px;
+  line-height: 24px;
+  color: hsl(229deg, 6%, 66%);
+  margin-bottom: 1.9rem;
+  text-align: left;
+}
+main section .card .image-wrapper {
+  width: 58px;
+  margin-left: auto;
+  margin-bottom: 0.5rem;
+}
+main section .card .image-wrapper img {
+  width: 100%;
+  display: block;
+}
+main section .card-team-builder {
+  border-top: 4px solid hsl(0deg, 78%, 62%);
+}
+main section .card {
+  padding: 1.5rem 1.6rem 1.5rem 1.7rem;
+  box-shadow: -1px 5px 10px rgba(0, 0, 0, 0.2);
+  margin-bottom: 1.4rem;
+}
+main section .card h2 {
+  font-size: 1.3rem;
+  margin-bottom: 0.1rem;
+}
+main section .card p {
+  font-size: 13.5px;
+  line-height: 24px;
+  color: hsl(229deg, 6%, 66%);
+  margin-bottom: 1.9rem;
+  text-align: left;
+}
+main section .card .image-wrapper {
+  width: 58px;
+  margin-left: auto;
+  margin-bottom: 0.5rem;
+}
+main section .card .image-wrapper img {
+  width: 100%;
+  display: block;
+}
+main section .card-karma {
+  border-top: 4px solid hsl(34deg, 97%, 64%);
+}
+main section .card {
+  padding: 1.5rem 1.6rem 1.5rem 1.7rem;
+  box-shadow: -1px 5px 10px rgba(0, 0, 0, 0.2);
+  margin-bottom: 1.4rem;
+}
+main section .card h2 {
+  font-size: 1.3rem;
+  margin-bottom: 0.1rem;
+}
+main section .card p {
+  font-size: 13.5px;
+  line-height: 24px;
+  color: hsl(229deg, 6%, 66%);
+  margin-bottom: 1.9rem;
+  text-align: left;
+}
+main section .card .image-wrapper {
+  width: 58px;
+  margin-left: auto;
+  margin-bottom: 0.5rem;
+}
+main section .card .image-wrapper img {
+  width: 100%;
+  display: block;
+}
+main section .card-calculator {
+  border-top: 4px solid hsl(212deg, 86%, 64%);
+}
+
+/*# sourceMappingURL=styles.css.map */
